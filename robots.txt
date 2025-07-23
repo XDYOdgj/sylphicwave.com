@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sylphicwave.com/sitemap.xml
